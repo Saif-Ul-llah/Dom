@@ -1,0 +1,9 @@
+.names{
+    font-size: 24px;
+    /* padding: 70px; */
+    margin: 10px;
+    padding-left: 50px;
+    border:2px solid black  ;
+    /* height: calc(8vh); */
+    width: calc(85vw);
+}
